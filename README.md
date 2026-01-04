@@ -32,7 +32,7 @@ Design a centralized fraud detection system that works **independently of applic
 
 ## Flow 
 
-![Flow](assets/triggers.jpg)
+![Flow](https://drive.google.com/file/d/1aNttEk3NWN1qHVqPfDZn7H310gLuhnDk/view?usp=sharing)
 
 
 ## 🧠 Design Philosophy
