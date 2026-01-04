@@ -1,0 +1,5 @@
+pyodbc
+streamlit
+pandas
+python-dotenv
+psycopg2-binary
