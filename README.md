@@ -11,7 +11,7 @@ Instead of relying on application-side validations, this system enforces fraud d
 
 ## 🎥 Demo UI
 
-[![Watch Demo](assets/thumbnail.png)]
+![Watch Demo](assets/thumbnail.png)
 
 
 
