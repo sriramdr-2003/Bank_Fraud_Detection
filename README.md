@@ -9,9 +9,9 @@ Instead of relying on application-side validations, this system enforces fraud d
 ---
 
 
-## 🎥 Demo Video
+## 🎥 Demo UI
 
-[![Watch Demo](assets/thumbnail.png)](https://drive.google.com/file/d/1YP23z-2ZWOHe9Ea0Imwl4G5cpfGD-pHw/view?usp=sharing)
+[![Watch Demo](assets/thumbnail.png)]
 
 
 
